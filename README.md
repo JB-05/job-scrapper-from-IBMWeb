@@ -41,7 +41,7 @@ This project is a Python-based web scraper designed to collect job listings from
 
 - To run the scraper:
 
-    '''bash
+    ```bash
     python scraper.py
 
 
