@@ -46,4 +46,4 @@ This project is a Python-based web scraper designed to collect job listings from
 
 
 ## Developed with 🫶
-- Joel Biju || JB
+Joel Biju || JB
